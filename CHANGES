@@ -1,12 +1,3 @@
-1.0.0	2019-03-25
-
-	- Changed file names so that sessions are described as "_ses_<ses>" to "_ses-<ses>"
-	- Fixed PET headers so that they are correctly formatted .json files
-
-3.0.0 2018-07-10
-
-	- Defaced structural and PET images
-
 2.0.0	2018-07-10
 
 	- Changed license to CCO

@@ -1,0 +1,18 @@
+1.0.3 2021-05-19
+  - Updated according to BIDS v. 1.6.0
+1.0.2 2021-05-19
+  - Updated according to BIDS v. 1.6.0
+1.0.1	2019-03-25
+
+	- Changed file names so that sessions are described as "_ses_<ses>" to "_ses-<ses>"
+	- Fixed PET headers so that they are correctly formatted .json files
+
+2.0.0	2018-07-10
+
+	- Changed license to CCO
+
+1.0.0	2018-07-09
+
+	- First upload
+
+undefined

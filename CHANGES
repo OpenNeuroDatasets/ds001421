@@ -1,3 +1,5 @@
+1.2.1 2021-10-20
+  - Corrected the name of SUIT mask to be BIDS compliant
 1.2.0 2021-10-20
   - Added FreeSurfer and SUIT derivaties for ses-baseline
 1.1.0 2021-09-07

@@ -1,3 +1,5 @@
+1.2.0 2021-10-20
+  - Added FreeSurfer and SUIT derivaties for ses-baseline
 1.1.0 2021-09-07
   - Modified the orientation of the PET data from LAS to RAS
 1.0.3 2021-05-19

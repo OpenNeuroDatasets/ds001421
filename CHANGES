@@ -1,5 +1,3 @@
-1.3.0 2022-07-28
-  - Removed unnecessary files from freesurfer derivatives folder.
 1.2.1 2021-10-20
   - Corrected the name of SUIT mask to be BIDS compliant
 1.2.0 2021-10-20
